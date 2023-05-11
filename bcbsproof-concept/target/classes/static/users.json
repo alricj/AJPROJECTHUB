@@ -1,0 +1,36 @@
+{
+  "data": [
+    [
+      "1234",
+      "tony.blair@xyz.com",
+      "Tony",
+      "Blair",
+      "avatar 1"
+
+    ],
+    [
+      "5234",
+      "gordon.brown@xyz.com",
+      "gordon",
+      "brown",
+      "avatar 2"
+
+    ],
+    [
+      "6234",
+      "douglas.herd@xyz.com",
+      "douglas",
+      "hurd",
+      "avatar 3"
+
+    ],
+    [
+      "1734",
+      "tony.benn@xyz.com",
+      "Tony",
+      "Benn",
+      "avatar 4"
+
+    ]
+  ]
+}
